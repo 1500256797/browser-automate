@@ -1,0 +1,17 @@
+{
+  "name": "browser-automate",
+  "version": "1.0.0",
+  "description": "js操控浏览器实现流程自动化",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ouhuang_eth",
+  "license": "MIT",
+  "dependencies": {
+    "@chainsafe/dappeteer": "^5.0.1",
+    "dotenv": "^16.0.3",
+    "puppeteer": "^19.7.5"
+  }
+}
